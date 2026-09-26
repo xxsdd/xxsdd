@@ -2,30 +2,31 @@
 
 # 👋 Hi, I'm xxsdd
 
-**Welcome to my GitHub profile · 欢迎来到我的 GitHub 主页**
+**Vibe coding small web projects · 用 vibe coding 创作小型网页**
+
+I build small web projects, share what I learn, and update this page as I go.
+
+持续记录 Web 项目、开发尝试与学习过程。
 
 </div>
 
 ---
 
-## About me
+## 🧪 Web projects / Web 项目
 
-I use GitHub to share projects, experiments, and things I learn along the way.
+### 🍜 饭点 FOOD SPIN — Vancouver Restaurant Picker
 
-我会在这里分享正在做的项目、尝试和学习记录。
+A playful way to choose where to eat across Vancouver, Burnaby, and Richmond.
 
-## Featured repository
+为 Vancouver、Burnaby、Richmond 三地餐厅制作的随机抽选网页。
 
-### [Rebirth](https://github.com/xxsdd/Rebirth)
-
-A public repository from my GitHub.
-
-## What you'll find here
-
-- Projects and experiments
-- Notes from learning and building
+- **[Try the live demo](https://food-spin-vancouver.vercel.app/)**
+- **[View source code](https://github.com/xxsdd/food-spin-vancouver)**
+- Browse 328 restaurants, filter by area or cuisine, search the directory, and open locations in Google Maps.
 
 ---
+
+More web projects will be added here as I build and learn.
 
 <div align="center">
 
