@@ -31,7 +31,7 @@ A mobile-friendly app for two people to set tasks, review completion proof, and 
 两个人互相发布任务、提交凭证并验收，完成后兑换奖励、参与抽奖、解锁成就。支持手机浏览。
 
 - **[Try the live demo / 打开网站](https://masters-tasks.vercel.app/)**
-- Source code is private. / 源码暂不公开。
+- **[View source code / 查看源码](https://github.com/xxsdd/masters-tasks)** · MIT
 
 ---
 
