@@ -24,6 +24,15 @@ A playful way to choose where to eat across Vancouver, Burnaby, and Richmond.
 - **[View source code](https://github.com/xxsdd/food-spin-vancouver)**
 - Browse 328 restaurants, filter by area or cuisine, search the directory, and open locations in Google Maps.
 
+### 🎀 主人的任务 — Shared Tasks & Rewards
+
+A mobile-friendly app for two people to set tasks, review completion proof, and earn rewards, lucky draws, and achievements.
+
+两个人互相发布任务、提交凭证并验收，完成后兑换奖励、参与抽奖、解锁成就。支持手机浏览。
+
+- **[Try the live demo / 打开网站](https://masters-tasks.vercel.app/)**
+- Source code is private. / 源码暂不公开。
+
 ---
 
 More web projects will be added here as I build and learn.
